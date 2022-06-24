@@ -47,10 +47,10 @@ for (int i = 0; i < 10; i++)
 switch (geslacht)
 {
     case "Y":
-        tijdOver = (random.Next(150-leeftijd,150));
+        tijdOver = (random.Next(0,150 - leeftijd));
         break;
     case "X":
-        tijdOver = (random.Next(120 - leeftijd, 120));
+        tijdOver = (random.Next(0, 120 - leeftijd));
         break;
     default:
         Console.WriteLine("ongeldige keuze");
