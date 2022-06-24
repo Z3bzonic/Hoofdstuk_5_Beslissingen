@@ -1,0 +1,15 @@
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Kleurcode_weerstand_naar_Ohm\bin\Debug\net6.0\Kleurcode_weerstand_naar_Ohm.exe
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Kleurcode_weerstand_naar_Ohm\bin\Debug\net6.0\Kleurcode_weerstand_naar_Ohm.deps.json
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Kleurcode_weerstand_naar_Ohm\bin\Debug\net6.0\Kleurcode_weerstand_naar_Ohm.runtimeconfig.json
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Kleurcode_weerstand_naar_Ohm\bin\Debug\net6.0\Kleurcode_weerstand_naar_Ohm.dll
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Kleurcode_weerstand_naar_Ohm\bin\Debug\net6.0\Kleurcode_weerstand_naar_Ohm.pdb
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Kleurcode_weerstand_naar_Ohm\obj\Debug\net6.0\Kleurcode_weerstand_naar_Ohm.csproj.AssemblyReference.cache
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Kleurcode_weerstand_naar_Ohm\obj\Debug\net6.0\Kleurcode_weerstand_naar_Ohm.GeneratedMSBuildEditorConfig.editorconfig
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Kleurcode_weerstand_naar_Ohm\obj\Debug\net6.0\Kleurcode_weerstand_naar_Ohm.AssemblyInfoInputs.cache
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Kleurcode_weerstand_naar_Ohm\obj\Debug\net6.0\Kleurcode_weerstand_naar_Ohm.AssemblyInfo.cs
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Kleurcode_weerstand_naar_Ohm\obj\Debug\net6.0\Kleurcode_weerstand_naar_Ohm.csproj.CoreCompileInputs.cache
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Kleurcode_weerstand_naar_Ohm\obj\Debug\net6.0\Kleurcode_weerstand_naar_Ohm.dll
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Kleurcode_weerstand_naar_Ohm\obj\Debug\net6.0\refint\Kleurcode_weerstand_naar_Ohm.dll
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Kleurcode_weerstand_naar_Ohm\obj\Debug\net6.0\Kleurcode_weerstand_naar_Ohm.pdb
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Kleurcode_weerstand_naar_Ohm\obj\Debug\net6.0\Kleurcode_weerstand_naar_Ohm.genruntimeconfig.cache
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Kleurcode_weerstand_naar_Ohm\obj\Debug\net6.0\ref\Kleurcode_weerstand_naar_Ohm.dll

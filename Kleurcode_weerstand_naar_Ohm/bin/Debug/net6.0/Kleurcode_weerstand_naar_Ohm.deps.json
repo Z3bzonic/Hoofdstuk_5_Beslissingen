@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Kleurcode_weerstand_naar_Ohm/1.0.0": {
+        "runtime": {
+          "Kleurcode_weerstand_naar_Ohm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kleurcode_weerstand_naar_Ohm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
