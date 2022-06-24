@@ -1,0 +1,15 @@
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\BMI_Berekenen_Remake\obj\Debug\net6.0\BMI_Berekenen_Remake.csproj.AssemblyReference.cache
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\BMI_Berekenen_Remake\obj\Debug\net6.0\BMI_Berekenen_Remake.GeneratedMSBuildEditorConfig.editorconfig
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\BMI_Berekenen_Remake\obj\Debug\net6.0\BMI_Berekenen_Remake.AssemblyInfoInputs.cache
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\BMI_Berekenen_Remake\obj\Debug\net6.0\BMI_Berekenen_Remake.AssemblyInfo.cs
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\BMI_Berekenen_Remake\obj\Debug\net6.0\BMI_Berekenen_Remake.csproj.CoreCompileInputs.cache
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\BMI_Berekenen_Remake\bin\Debug\net6.0\BMI_Berekenen_Remake.exe
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\BMI_Berekenen_Remake\bin\Debug\net6.0\BMI_Berekenen_Remake.deps.json
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\BMI_Berekenen_Remake\bin\Debug\net6.0\BMI_Berekenen_Remake.runtimeconfig.json
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\BMI_Berekenen_Remake\bin\Debug\net6.0\BMI_Berekenen_Remake.dll
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\BMI_Berekenen_Remake\bin\Debug\net6.0\BMI_Berekenen_Remake.pdb
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\BMI_Berekenen_Remake\obj\Debug\net6.0\BMI_Berekenen_Remake.dll
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\BMI_Berekenen_Remake\obj\Debug\net6.0\refint\BMI_Berekenen_Remake.dll
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\BMI_Berekenen_Remake\obj\Debug\net6.0\BMI_Berekenen_Remake.pdb
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\BMI_Berekenen_Remake\obj\Debug\net6.0\BMI_Berekenen_Remake.genruntimeconfig.cache
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\BMI_Berekenen_Remake\obj\Debug\net6.0\ref\BMI_Berekenen_Remake.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMI_Berekenen_Remake", "BMI_Berekenen_Remake\BMI_Berekenen_Remake.csproj", "{57F5F6DB-764D-47EF-8AD4-BF1083E4AA9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57F5F6DB-764D-47EF-8AD4-BF1083E4AA9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57F5F6DB-764D-47EF-8AD4-BF1083E4AA9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57F5F6DB-764D-47EF-8AD4-BF1083E4AA9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57F5F6DB-764D-47EF-8AD4-BF1083E4AA9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86C5463B-97EE-4816-B5CC-029E03BA16AB}
+	EndGlobalSection
+EndGlobal
