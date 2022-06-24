@@ -1,0 +1,15 @@
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Casino\bin\Debug\net6.0\Casino.exe
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Casino\bin\Debug\net6.0\Casino.deps.json
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Casino\bin\Debug\net6.0\Casino.runtimeconfig.json
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Casino\bin\Debug\net6.0\Casino.dll
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Casino\bin\Debug\net6.0\Casino.pdb
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Casino\obj\Debug\net6.0\Casino.csproj.AssemblyReference.cache
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Casino\obj\Debug\net6.0\Casino.GeneratedMSBuildEditorConfig.editorconfig
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Casino\obj\Debug\net6.0\Casino.AssemblyInfoInputs.cache
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Casino\obj\Debug\net6.0\Casino.AssemblyInfo.cs
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Casino\obj\Debug\net6.0\Casino.csproj.CoreCompileInputs.cache
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Casino\obj\Debug\net6.0\Casino.dll
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Casino\obj\Debug\net6.0\refint\Casino.dll
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Casino\obj\Debug\net6.0\Casino.pdb
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Casino\obj\Debug\net6.0\Casino.genruntimeconfig.cache
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Casino\obj\Debug\net6.0\ref\Casino.dll
