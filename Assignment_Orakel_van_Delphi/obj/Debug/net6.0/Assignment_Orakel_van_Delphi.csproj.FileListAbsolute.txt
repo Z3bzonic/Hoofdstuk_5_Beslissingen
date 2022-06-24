@@ -1,0 +1,15 @@
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment_Orakel_van_Delphi\bin\Debug\net6.0\Assignment_Orakel_van_Delphi.exe
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment_Orakel_van_Delphi\bin\Debug\net6.0\Assignment_Orakel_van_Delphi.deps.json
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment_Orakel_van_Delphi\bin\Debug\net6.0\Assignment_Orakel_van_Delphi.runtimeconfig.json
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment_Orakel_van_Delphi\bin\Debug\net6.0\Assignment_Orakel_van_Delphi.dll
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment_Orakel_van_Delphi\bin\Debug\net6.0\Assignment_Orakel_van_Delphi.pdb
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment_Orakel_van_Delphi\obj\Debug\net6.0\Assignment_Orakel_van_Delphi.csproj.AssemblyReference.cache
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment_Orakel_van_Delphi\obj\Debug\net6.0\Assignment_Orakel_van_Delphi.GeneratedMSBuildEditorConfig.editorconfig
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment_Orakel_van_Delphi\obj\Debug\net6.0\Assignment_Orakel_van_Delphi.AssemblyInfoInputs.cache
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment_Orakel_van_Delphi\obj\Debug\net6.0\Assignment_Orakel_van_Delphi.AssemblyInfo.cs
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment_Orakel_van_Delphi\obj\Debug\net6.0\Assignment_Orakel_van_Delphi.csproj.CoreCompileInputs.cache
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment_Orakel_van_Delphi\obj\Debug\net6.0\Assignment_Orakel_van_Delphi.dll
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment_Orakel_van_Delphi\obj\Debug\net6.0\refint\Assignment_Orakel_van_Delphi.dll
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment_Orakel_van_Delphi\obj\Debug\net6.0\Assignment_Orakel_van_Delphi.pdb
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment_Orakel_van_Delphi\obj\Debug\net6.0\Assignment_Orakel_van_Delphi.genruntimeconfig.cache
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment_Orakel_van_Delphi\obj\Debug\net6.0\ref\Assignment_Orakel_van_Delphi.dll
