@@ -95,7 +95,7 @@ switch (kleuren[1])
 }
 
 double band3 = 0;
-switch (kleuren[1])
+switch (kleuren[2])
 {
     case "zwart":
         band3 = 1;
@@ -137,7 +137,7 @@ switch (kleuren[1])
         Console.WriteLine("Onjuiste ingave, herstart programma");
         break;
 }
-double uitkomst = (band1 * 10) + band2 * band3;
+double uitkomst = ((band1 * 10) + band2) * band3;
 Console.WriteLine($"\n\nDe weerstand is {uitkomst} Ω");
 
 // de oefening kan volgens mij beter door de uitkomt te herleiden naar een eenvoudiger cijfer met M K en G suffix
