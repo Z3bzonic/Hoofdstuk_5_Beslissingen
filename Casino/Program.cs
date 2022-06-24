@@ -3,14 +3,17 @@ Random random = new Random();
 
 Console.WriteLine("Raad de computerworp van 1 tot 6");
 int gooi = random.Next(1,6);
-
-int raad = int.Parse(Console.ReadLine());
-
-if (gooi == raad)
-{
-    Console.WriteLine("Je hebt gewonnen, proficiat!!");
+int raad = 0;
+for (int i = 0; i < 3; i++) {
+    raad = int.Parse(Console.ReadLine());
+    if (gooi == raad)
+    {
+        Console.WriteLine("Je hebt gewonnen, proficiat!!");
+        break;
+    }
 }
-else
+if (gooi != raad)
 {
     Console.WriteLine("Je hebt verloren, ook proficiat!!");
 }
+
