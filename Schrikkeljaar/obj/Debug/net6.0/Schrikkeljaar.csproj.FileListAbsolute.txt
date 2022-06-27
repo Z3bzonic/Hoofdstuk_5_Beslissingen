@@ -1,0 +1,15 @@
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Schrikkeljaar\bin\Debug\net6.0\Schrikkeljaar.exe
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Schrikkeljaar\bin\Debug\net6.0\Schrikkeljaar.deps.json
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Schrikkeljaar\bin\Debug\net6.0\Schrikkeljaar.runtimeconfig.json
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Schrikkeljaar\bin\Debug\net6.0\Schrikkeljaar.dll
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Schrikkeljaar\bin\Debug\net6.0\Schrikkeljaar.pdb
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Schrikkeljaar\obj\Debug\net6.0\Schrikkeljaar.csproj.AssemblyReference.cache
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Schrikkeljaar\obj\Debug\net6.0\Schrikkeljaar.GeneratedMSBuildEditorConfig.editorconfig
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Schrikkeljaar\obj\Debug\net6.0\Schrikkeljaar.AssemblyInfoInputs.cache
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Schrikkeljaar\obj\Debug\net6.0\Schrikkeljaar.AssemblyInfo.cs
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Schrikkeljaar\obj\Debug\net6.0\Schrikkeljaar.csproj.CoreCompileInputs.cache
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Schrikkeljaar\obj\Debug\net6.0\Schrikkeljaar.dll
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Schrikkeljaar\obj\Debug\net6.0\refint\Schrikkeljaar.dll
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Schrikkeljaar\obj\Debug\net6.0\Schrikkeljaar.pdb
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Schrikkeljaar\obj\Debug\net6.0\Schrikkeljaar.genruntimeconfig.cache
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Schrikkeljaar\obj\Debug\net6.0\ref\Schrikkeljaar.dll
