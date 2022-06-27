@@ -1,0 +1,15 @@
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Quiz\bin\Debug\net6.0\Assignment Quiz.exe
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Quiz\bin\Debug\net6.0\Assignment Quiz.deps.json
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Quiz\bin\Debug\net6.0\Assignment Quiz.runtimeconfig.json
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Quiz\bin\Debug\net6.0\Assignment Quiz.dll
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Quiz\bin\Debug\net6.0\Assignment Quiz.pdb
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Quiz\obj\Debug\net6.0\Assignment Quiz.csproj.AssemblyReference.cache
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Quiz\obj\Debug\net6.0\Assignment Quiz.GeneratedMSBuildEditorConfig.editorconfig
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Quiz\obj\Debug\net6.0\Assignment Quiz.AssemblyInfoInputs.cache
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Quiz\obj\Debug\net6.0\Assignment Quiz.AssemblyInfo.cs
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Quiz\obj\Debug\net6.0\Assignment Quiz.csproj.CoreCompileInputs.cache
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Quiz\obj\Debug\net6.0\Assignment Quiz.dll
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Quiz\obj\Debug\net6.0\refint\Assignment Quiz.dll
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Quiz\obj\Debug\net6.0\Assignment Quiz.pdb
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Quiz\obj\Debug\net6.0\Assignment Quiz.genruntimeconfig.cache
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Quiz\obj\Debug\net6.0\ref\Assignment Quiz.dll
