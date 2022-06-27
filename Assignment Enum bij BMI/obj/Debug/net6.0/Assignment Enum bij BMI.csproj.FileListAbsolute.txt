@@ -1,0 +1,15 @@
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Enum bij BMI\bin\Debug\net6.0\Assignment Enum bij BMI.exe
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Enum bij BMI\bin\Debug\net6.0\Assignment Enum bij BMI.deps.json
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Enum bij BMI\bin\Debug\net6.0\Assignment Enum bij BMI.runtimeconfig.json
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Enum bij BMI\bin\Debug\net6.0\Assignment Enum bij BMI.dll
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Enum bij BMI\bin\Debug\net6.0\Assignment Enum bij BMI.pdb
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Enum bij BMI\obj\Debug\net6.0\Assignment Enum bij BMI.csproj.AssemblyReference.cache
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Enum bij BMI\obj\Debug\net6.0\Assignment Enum bij BMI.GeneratedMSBuildEditorConfig.editorconfig
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Enum bij BMI\obj\Debug\net6.0\Assignment Enum bij BMI.AssemblyInfoInputs.cache
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Enum bij BMI\obj\Debug\net6.0\Assignment Enum bij BMI.AssemblyInfo.cs
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Enum bij BMI\obj\Debug\net6.0\Assignment Enum bij BMI.csproj.CoreCompileInputs.cache
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Enum bij BMI\obj\Debug\net6.0\Assignment Enum bij BMI.dll
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Enum bij BMI\obj\Debug\net6.0\refint\Assignment Enum bij BMI.dll
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Enum bij BMI\obj\Debug\net6.0\Assignment Enum bij BMI.pdb
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Enum bij BMI\obj\Debug\net6.0\Assignment Enum bij BMI.genruntimeconfig.cache
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Enum bij BMI\obj\Debug\net6.0\ref\Assignment Enum bij BMI.dll
