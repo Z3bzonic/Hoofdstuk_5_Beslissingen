@@ -1,0 +1,15 @@
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Enum seizoenen\bin\Debug\net6.0\Assignment Enum seizoenen.exe
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Enum seizoenen\bin\Debug\net6.0\Assignment Enum seizoenen.deps.json
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Enum seizoenen\bin\Debug\net6.0\Assignment Enum seizoenen.runtimeconfig.json
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Enum seizoenen\bin\Debug\net6.0\Assignment Enum seizoenen.dll
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Enum seizoenen\bin\Debug\net6.0\Assignment Enum seizoenen.pdb
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Enum seizoenen\obj\Debug\net6.0\Assignment Enum seizoenen.csproj.AssemblyReference.cache
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Enum seizoenen\obj\Debug\net6.0\Assignment Enum seizoenen.GeneratedMSBuildEditorConfig.editorconfig
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Enum seizoenen\obj\Debug\net6.0\Assignment Enum seizoenen.AssemblyInfoInputs.cache
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Enum seizoenen\obj\Debug\net6.0\Assignment Enum seizoenen.AssemblyInfo.cs
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Enum seizoenen\obj\Debug\net6.0\Assignment Enum seizoenen.csproj.CoreCompileInputs.cache
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Enum seizoenen\obj\Debug\net6.0\Assignment Enum seizoenen.dll
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Enum seizoenen\obj\Debug\net6.0\refint\Assignment Enum seizoenen.dll
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Enum seizoenen\obj\Debug\net6.0\Assignment Enum seizoenen.pdb
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Enum seizoenen\obj\Debug\net6.0\Assignment Enum seizoenen.genruntimeconfig.cache
+Z:\repos\Cursus\Hoofdstuk_5_Beslissingen\Assignment Enum seizoenen\obj\Debug\net6.0\ref\Assignment Enum seizoenen.dll
