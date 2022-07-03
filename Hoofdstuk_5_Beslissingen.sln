@@ -3,7 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMI_Berekenen_Remake", "BMI_Berekenen_Remake\BMI_Berekenen_Remake.csproj", "{57F5F6DB-764D-47EF-8AD4-BF1083E4AA9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BMI_Berekenen_Remake", "BMI_Berekenen_Remake\BMI_Berekenen_Remake.csproj", "{57F5F6DB-764D-47EF-8AD4-BF1083E4AA9E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Schoenverkoper", "Schoenverkoper\Schoenverkoper.csproj", "{75EF4972-F942-483C-82FE-1CB353C7C990}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ohm_Berekenaar", "Ohm_Berekenaar\Ohm_Berekenaar.csproj", "{D7ABFDCB-764C-4666-B7F9-D57FB3A0D9D6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kleurcode_weerstand_naar_Ohm", "Kleurcode_weerstand_naar_Ohm\Kleurcode_weerstand_naar_Ohm.csproj", "{54553F3F-9247-4396-B972-B7CA135D9529}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment_Orakel_van_Delphi", "Assignment_Orakel_van_Delphi\Assignment_Orakel_van_Delphi.csproj", "{65D35513-FD79-4826-8195-F81E2490EB41}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Casino", "Casino\Casino.csproj", "{7D64DE78-33FE-4FF4-A615-B8824382E9C9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment Quiz", "Assignment Quiz\Assignment Quiz.csproj", "{51C99507-6A33-4FCA-AB7A-AC47C86E8E39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Schrikkeljaar", "Schrikkeljaar\Schrikkeljaar.csproj", "{C1F2ED01-A335-4E27-86D4-62D518F5863D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment Enum seizoenen", "Assignment Enum seizoenen\Assignment Enum seizoenen.csproj", "{687C8255-8EFD-4CF6-AA25-9A5CB52E6382}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment Enum bij BMI", "Assignment Enum bij BMI\Assignment Enum bij BMI.csproj", "{90420D20-DF04-4505-A97D-D54AC63E9BD9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +33,42 @@ Global
 		{57F5F6DB-764D-47EF-8AD4-BF1083E4AA9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57F5F6DB-764D-47EF-8AD4-BF1083E4AA9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57F5F6DB-764D-47EF-8AD4-BF1083E4AA9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75EF4972-F942-483C-82FE-1CB353C7C990}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75EF4972-F942-483C-82FE-1CB353C7C990}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75EF4972-F942-483C-82FE-1CB353C7C990}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75EF4972-F942-483C-82FE-1CB353C7C990}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7ABFDCB-764C-4666-B7F9-D57FB3A0D9D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7ABFDCB-764C-4666-B7F9-D57FB3A0D9D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7ABFDCB-764C-4666-B7F9-D57FB3A0D9D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7ABFDCB-764C-4666-B7F9-D57FB3A0D9D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54553F3F-9247-4396-B972-B7CA135D9529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54553F3F-9247-4396-B972-B7CA135D9529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54553F3F-9247-4396-B972-B7CA135D9529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54553F3F-9247-4396-B972-B7CA135D9529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65D35513-FD79-4826-8195-F81E2490EB41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65D35513-FD79-4826-8195-F81E2490EB41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65D35513-FD79-4826-8195-F81E2490EB41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65D35513-FD79-4826-8195-F81E2490EB41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D64DE78-33FE-4FF4-A615-B8824382E9C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D64DE78-33FE-4FF4-A615-B8824382E9C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D64DE78-33FE-4FF4-A615-B8824382E9C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D64DE78-33FE-4FF4-A615-B8824382E9C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51C99507-6A33-4FCA-AB7A-AC47C86E8E39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51C99507-6A33-4FCA-AB7A-AC47C86E8E39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51C99507-6A33-4FCA-AB7A-AC47C86E8E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51C99507-6A33-4FCA-AB7A-AC47C86E8E39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1F2ED01-A335-4E27-86D4-62D518F5863D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1F2ED01-A335-4E27-86D4-62D518F5863D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1F2ED01-A335-4E27-86D4-62D518F5863D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1F2ED01-A335-4E27-86D4-62D518F5863D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{687C8255-8EFD-4CF6-AA25-9A5CB52E6382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{687C8255-8EFD-4CF6-AA25-9A5CB52E6382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{687C8255-8EFD-4CF6-AA25-9A5CB52E6382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{687C8255-8EFD-4CF6-AA25-9A5CB52E6382}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90420D20-DF04-4505-A97D-D54AC63E9BD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90420D20-DF04-4505-A97D-D54AC63E9BD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90420D20-DF04-4505-A97D-D54AC63E9BD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90420D20-DF04-4505-A97D-D54AC63E9BD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
